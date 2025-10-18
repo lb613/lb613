@@ -9,6 +9,14 @@
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 
 
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
 [![An image of @lb613's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lb613)](https://holopin.io/@lb613)
 
 ### Plans
